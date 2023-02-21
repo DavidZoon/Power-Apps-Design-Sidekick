@@ -22,3 +22,4 @@ Design Format Theme : ![image](https://user-images.githubusercontent.com/1255896
 Paste and copy code : ![image](https://user-images.githubusercontent.com/125589668/220307800-0d628387-ea69-499e-89d3-7c602cb5d495.png)
 (Actual Color Theme and Format Theme will be default values)
 
+Preview Themes : ![msedge_KHg1PKafBL](https://user-images.githubusercontent.com/125589668/220310546-bda02d09-0ce0-4890-8edb-a6b3eba52a82.gif)
